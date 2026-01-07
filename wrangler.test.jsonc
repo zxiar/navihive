@@ -10,9 +10,9 @@
     // 认证配置
     "AUTH_ENABLED": "true",
     "AUTH_REQUIRED_FOR_READ": "false",
-    "AUTH_USERNAME": "admin",
-    "AUTH_PASSWORD": "$2a$10$Ad1Vu8l8RNdrMn5RPj0pjeLQHh3sTd.OyqjNKFrWTNT/cj1DzkwAi",
-    "AUTH_SECRET": "navihive-test-secret-2025"
+    "AUTH_USERNAME": "zxiar",
+    "AUTH_PASSWORD": "$2y$10$8Nf3k.Y6QHGE7o7VySYO.eA7L10ceyxprCU474N4ACtffWCLYj3Qu",
+    "AUTH_SECRET": "jaLLSA6ksd6b4vQmmaokzptUXzG1dneh"
   },
   "d1_databases": [
     {
